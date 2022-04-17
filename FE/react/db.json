@@ -1,0 +1,19 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "Name": "sump",
+      "Gender": "female",
+      "Age": "25",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4PSrA-EgtuqJy2o4n9_NKU-iOODVhFCuZfwhvX3pMmKE9-fNdFuWTfKL6QCae0c0C0k&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "Name": "sump",
+      "Gender": "female",
+      "Age": "25",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4PSrA-EgtuqJy2o4n9_NKU-iOODVhFCuZfwhvX3pMmKE9-fNdFuWTfKL6QCae0c0C0k&usqp=CAU"
+    }
+  
+  ]
+}
